@@ -1,0 +1,10 @@
+Le Thi Lan	18	10	9	9.5
+Le Van Duc	18	9	10	9.5
+Do Thi Ha	16	10	8	9
+Hoang Thi Mai	17	8	10	9
+Ngo Thi Linh	9	9	9	9
+Nguyen Van Son	19	9	9	9
+Nguyen Quang Huy	18	8.4	9.4	8.9
+Nguyen Thi Hong	18	9	8	8.5
+Duong Van Son	17	8	9	8.5
+Pham Van Hung	17	8	9	8.5
