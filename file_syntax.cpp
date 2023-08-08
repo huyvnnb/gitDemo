@@ -5,7 +5,7 @@
 #include <sstream>
 #include <iomanip>
 #include <limits>
-
+#include <cmath>
 //using namespace std;
 
 struct Sinhvien{
