@@ -1,6 +1,6 @@
 # Chương trình Quản Lí Sinh Viên C++ thao tác File
 
-10 Tính năng
+Tính năng
 - Thêm
 - Sửa
 - Xoá
